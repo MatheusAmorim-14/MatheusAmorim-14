@@ -8,4 +8,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-[![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)](https://github.com/rafaballerini)
+[![Snake animation](https://github.com/MatheusAmorim-14/MatheusAmorim-14/blob/output/github-contribution-grid-snake.svg)](https://github.com/MatheusAmorim-14)
